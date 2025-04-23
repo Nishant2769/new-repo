@@ -1,3 +1,2 @@
 Hello World
-
-#I am learning git and Github
+Deleted the second line and added new one
